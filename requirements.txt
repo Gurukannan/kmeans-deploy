@@ -6,8 +6,8 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 joblib==1.0.1
 MarkupSafe==2.0.1
-numpy==1.20.3
-scikit-learn==0.22
+numpy
+scikit-learn
 scipy==1.6.3
 sklearn==0.0
 threadpoolctl==2.1.0
